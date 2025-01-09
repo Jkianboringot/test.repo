@@ -1,5 +1,4 @@
-print('hi there ')
-print('am kian')
+print("first commit")
 
 
 
